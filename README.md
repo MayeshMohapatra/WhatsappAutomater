@@ -6,7 +6,7 @@ Send Whatsapp Messages at a predefined time through Whatsapp Web.
 ## Library Used
 pywhatkit module (https://pypi.org/project/pywhatkit/)<br>
 use pip install pywhatkit
-
+This module will install multiple required packages like soupsieve,beautifulsoup,pymsgbox,pyTweening, pyautogui etc if not already installed on your device.
 ## Other Requirements
 chromedriver (https://chromedriver.chromium.org/downloads)
 
